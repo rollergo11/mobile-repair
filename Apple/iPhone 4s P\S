@@ -1,0 +1,9 @@
+Problem/Solutions
+
+
+[Example]
+P: Phone will not boot
+S: $NET_NAME shorted to GND, replaced $COMPONENT_NAME
+[/Example]
+
+[Submit Pull Request to add more]
